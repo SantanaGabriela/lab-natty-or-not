@@ -1,24 +1,26 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# A Importância do Uso de Python
+para Análise de Indicadores
+Empresariais
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O ebook trás informações sobre como as empresas podem aplicar as bibliotecas em python para análise de indicadores. Todo o ebook foi feito atráves do chatgp. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+#Chatgpt
+#LeonardoAI
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o chatgpt para criar o ebook sobre a utilizaçao e aplicação da linguagem python e suas bibliotecas para análise de indicadores empresariais e utilizei o LeonardoAI para criar a capa do ebook.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Ebook com capa e 5 páginas de contéudo. 
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Desafio interessante e que fez com que eu saisse da minha zona de conforto. 
 ```
 
 
